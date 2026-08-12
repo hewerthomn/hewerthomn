@@ -9,6 +9,3 @@
 
 [![wakatime](https://wakatime.com/badge/user/3d451231-4da0-44fd-8ddb-c2fc49350be1.svg)](https://wakatime.com/@3d451231-4da0-44fd-8ddb-c2fc49350be1)
 
-##
-
-This README was inspired in [rafaballerini](https://github.com/rafaballerini/rafaballerini) repo.
